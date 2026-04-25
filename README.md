@@ -48,14 +48,17 @@
 ### 🌟 Key Experience & Projects
 
 #### 📷 전장용 3M 카메라 화질 튜닝 및 양산 (Nextchip)
+- **Period**: 2023.07 ~ 2025.12 (2년 6개월)
 - **Role**: 주임연구원 / 화질 튜닝 및 정량 평가 전담
 - **Outcome**: 야간 노이즈 트레이드오프 최적화를 통해 양산 기준 신뢰도 확보. 총 15개 모델의 ISP-센서 조합 검증 완수.
 
 #### ⚡ Imatest 화질 정량평가 자동화 시스템
+- **Period**: 2023.11 ~ 2024.02
 - **Role**: 기획 및 개발 (VBA 활용)
 - **Outcome**: 반복적인 검증 프로세스를 자동화하여 사내 표준 프로세스로 내재화. 업무 효율성 비약적 향상.
 
 #### 🤖 Realtime Assembly Guide ([Portfolio](https://github.com/Tran9523/Realtime_Assembly_Guide))
+- **Period**: 2026.03 ~ 2026.04
 - **Role**: 프로젝트 PM (우수상 수상)
 - **Goal**: YOLO11을 활용한 비전 인식 기반 실시간 조립 가이드 시스템 구축.
 - **Focus**: 데이터 전처리 및 복합 환경 학습을 통한 인식률 고도화 (mAP@50: 97.85%).
@@ -64,18 +67,11 @@
 
 ### 🎓 Education & Certifications
 
-- **Columbia University**: Prompt Engineering & Programming with OpenAI 수료
-- **상공회의소**: AI융합 로봇SW 과정 (Vision AI 최적화 및 로봇 제어)
-- **고려대학교(세종)**: 정부행정학부 졸업 (학점 3.73 / 4.5)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tran9523&show_icons=true&theme=transparent&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=white" alt="SeReu Moon's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tran9523&layout=compact&theme=transparent&hide_border=true&title_color=00FFFF&text_color=white" alt="Top Languages" />
-</div>
+- **고려대학교(세종)** | 정부행정학부 졸업 `2021.02`
+- **상공회의소 서울기술교육센터** | AI융합 로봇SW 과정 `2025.12 ~ 2026.07`
+- **Columbia University** | Prompt Engineering & Programming with OpenAI `2026.03 ~ 2026.04`
+  <br><sub>[![Verify](https://img.shields.io/badge/Verify_Certificate-16202A?style=flat-square)](https://badges.plus.columbia.edu/a765e631-d1bf-4631-84be-fb6c8c3d67ab)</sub>
+  
 
 ---
 
