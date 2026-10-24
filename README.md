@@ -1,80 +1,118 @@
-# 👨‍💻 안녕하세요, '시각'과 '인식'을 잇는 엔지니어 문세르입니다.
+# 📷 전장·모바일 카메라 ISP 화질 튜닝 엔지니어, 문세르입니다.
 
-> **ISP 화질 튜닝 실무 2.5년**의 탄탄한 기반 위에 **Vision AI** 역량을 더해, 하드웨어와 알고리즘의 한계를 데이터로 극복하는 솔루션을 지향합니다.
+전장 카메라의 정량·실차 평가와 화질 튜닝을 경험하고, 현재는 **Qualcomm ISP 기반 모바일 카메라 NR/EE 튜닝**을 담당하고 있습니다.
 
----
-
-### 🚀 Professional Summary
-
-- **ISP Tuning Expert**: ㈜넥스트칩에서 300억 규모 대기업(Tier-1) 전장 양산 프로젝트의 3M 전·후방 카메라 화질 최적화를 전담했습니다.
-- **Efficiency Maximizer**: 수작업 위주의 Imatest 평가 프로세스를 VBA로 자동화하여 검증 시간을 30%, 보고서 작성을 70% 단축시킨 경험이 있습니다. (사내 표준 채택)
-- **Vision AI Integrator**: 전통적인 ISP 튜닝 기술에 YOLO 기반 머신 비전 지식을 결합하여, 저조도 및 복합 환경에서도 신뢰도 높은 인지 성능을 확보하는 데 강점이 있습니다.
-- **Global Tech Experience**: 미국 산타클라라 EVS(Embedded Vision Summit) 기술 데모 구축 및 파견 엔지니어로서 글로벌 기술 트렌드를 실무에 녹여내고 있습니다.
+실제 영상과 평가 결과를 함께 살펴보며 화질을 개선하고, **VBA·Python을 활용해 반복 작업과 데이터 처리 문제를 개선**합니다. 화질평가 방법론을 정리하고, 영상 데이터와 객체 인식의 관계를 학습한 프로젝트도 공개하고 있습니다.
 
 ---
 
-### 🛠️ Tech Stack
+## 🔎 주요 경험
 
-<table>
-  <tr>
-    <td align="center"><b>Domain</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/ISP_Tuning-FFCA28?style=flat-square&logoColor=black" />
-      <img src="https://img.shields.io/badge/Image_Processing-42A5F5?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/Machine_Vision-00C853?style=flat-square&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Vision AI</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/YOLO11-00FFFF?style=flat-square&logo=yolo&logoColor=black" />
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-      <img src="https://img.shields.io/badge/Prompt_Engineering-412991?style=flat-square&logo=openai&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-    </td>
-  </tr>
-</table>
+- **전장 카메라 화질 튜닝**  
+  전·후방 카메라의 AE/AWB/HDR/Noise 튜닝과 Imatest 기반 정량 평가, 주·야간 실차 평가를 수행했습니다. 고객사의 적색 표현 요구에 대응하기 위해 ISP 레지스터를 분석하고 튜닝에 반영했습니다.
+
+- **모바일 Qualcomm ISP 튜닝**  
+  단일·다중 프레임과 동영상 특성에 맞춰 노이즈·선명도·Halo를 조정합니다. 프로젝트 메인 담당자로서 캡처 화질 이슈와 동영상 모션블러 개선을 수행했습니다.
+
+- **미국 EVS 기술 데모 구축 및 현장 지원**  
+  Embedded Vision Summit에서 소속 개발실의 화질 데모를 담당했습니다. 관련 부서의 기술 정보를 모아 시연 장면과 시스템을 구성하고, 전시장 환경에 맞춰 설정과 화질을 조정했습니다.
+
+- **평가 결과 처리·보고서 자동화**  
+  VBA 기반 도구로 약 3시간이 걸리던 보고서 작성 작업을 **검증 포함 약 40~50분**으로 단축했습니다. 도구와 보고서 양식은 팀 공통 업무 및 고객사 제출에 사용됐습니다.
 
 ---
 
-### 🌟 Key Experience & Projects
+## 📂 공개 프로젝트
 
-#### 📷 전장용 3M 카메라 화질 튜닝 및 양산 (Nextchip)
-- **Period**: 2023.07 ~ 2025.12 (2년 6개월)
-- **Role**: 주임연구원 / 화질 튜닝 및 정량 평가 전담
-- **Outcome**: 야간 노이즈 트레이드오프 최적화를 통해 양산 기준 신뢰도 확보. 사내 ISP-센서 조합 정량 평가 검증 완수.
+### 1. 정지 이미지 화질평가지표 설계
 
-#### ⚡ Imatest 화질 정량평가 자동화 시스템
-- **Period**: 2023.11 ~ 2024.02
-- **Role**: 기획 및 개발 (VBA 활용)
-- **Outcome**: 반복적인 검증 프로세스를 자동화하여 사내 표준 프로세스로 내재화. 업무 효율성 비약적 향상.
+[**evaluation-indicators →**](https://github.com/Tran9523/evaluation-indicators)
 
-#### 🤖 Realtime Assembly Guide ([Portfolio](https://github.com/Tran9523/Realtime_Assembly_Guide))
-- **Period**: 2026.03 ~ 2026.04
-- **Role**: 프로젝트 PM (우수상 수상)
-- **Goal**: YOLO11을 활용한 비전 인식 기반 실시간 조립 가이드 시스템 구축.
-- **Focus**: 데이터 전처리 및 복합 환경 학습을 통한 인식률 고도화 (mAP@50: 97.85%).
+화질을 하나의 점수로 표현하기 전에, **무엇을 어떤 조건에서 측정하고 어떻게 해석할지** 정리하는 방법론 설계 프로젝트입니다.
+
+- 복수 AI의 독립 제안과 교차검토를 활용해 화질평가 후보를 수집·정리했습니다.
+- 공개 논문·표준·공식 자료의 근거와 각 제안의 적용 범위·한계를 연결했습니다.
+- 노이즈 감소와 질감 보존, 선명도와 Halo 등 함께 살펴야 하는 화질 요소를 구조화했습니다.
+- 후보별 입력 조건, ROI, 측정 절차, 교란 요인과 자동화 가능성을 정리했습니다.
+
+**현재 단계:** 평가 후보와 방법론을 구조화한 문서 중심 프로젝트입니다. 실제 평가 프로그램의 구현과 통제 데이터 기반 성능 검증은 후속 과제입니다.
+
+### 2. Realtime Assembly Guide
+
+[**프로젝트 저장소 →**](https://github.com/Tran9523/Realtime_Assembly_Guide)
+
+YOLO 기반 객체 인식과 화면 안내를 결합한 **실시간 조립 가이드 팀 프로젝트**입니다.
+
+- **기간:** 2026.03.09–2026.03.20
+- **구성:** 4인 팀 / AI융합 로봇SW 교육 프로젝트
+- **담당:** PM 및 데이터 학습
+- **수행 내용:** 부품 겹침·가려짐에 대응하기 위한 복합 환경 데이터 전처리와 추가 학습
+- **팀 결과:** Foosball 프로젝트 검증 환경에서 Detect 모델 mAP@50 **97.85%**
+- **수상:** 교육과정 내 비전 응용 프로젝트 경진대회 **팀 우수상**
+
+프로젝트에서 Python, Ultralytics YOLO11, OpenCV, PyQt5, PyTorch를 사용했습니다. 성능 수치는 해당 데이터셋과 실험 환경을 기준으로 합니다.
 
 ---
 
-### 🎓 Education & Certifications
+## 🏢 실무 경험
 
-- **고려대학교(세종)** | 정부행정학부 졸업 `2021.02`
-- **상공회의소 서울기술교육센터** | AI융합 로봇SW 과정 `2025.12 ~ 2026.07`
-- **Columbia University** | Prompt Engineering & Programming with OpenAI `2026.03 ~ 2026.04`
-  <br><sub>[![Verify](https://img.shields.io/badge/Verify_Certificate-16202A?style=flat-square)](https://badges.plus.columbia.edu/a765e631-d1bf-4631-84be-fb6c8c3d67ab)</sub>
-  
+### 브라이센코리아 | 모바일 카메라 ISP 화질 튜닝
+**2026.06–현재**
+
+- Qualcomm ISP 기반 NR/EE 튜닝과 고객사 화질 이슈 대응
+- 2개 모델의 전면 카메라 튜닝 메인 담당 및 별도 2개 모델 지원
+- Python 기반 사내 도구의 버그 수정과 RAW 입력 형식 보정
+- 누락 파일 검색 및 Windows의 긴 파일 경로 문제 개선
+- 시뮬레이션 결과물 공유·관리 기능 개선 참여 및 협업 기능 개발 진행
+
+### 넥스트칩 | 전장 카메라 화질 튜닝 및 평가
+**2023.07–2025.11 · 인턴 기간 포함**
+
+- 전장 양산 프로젝트의 전·후방 카메라 튜닝 및 정량·실차 평가
+- 담당 카메라의 1차 품질 검증 완료까지 대응
+- 미국 EVS 전시회용 ISP 화질 데모 구축 및 현장 지원
+- Imatest 평가 결과 처리·보고서 자동화 도구 개발 및 팀 적용
 
 ---
 
-### 📫 Contact Me
-- **Phone**: 010-8990-2197
-- **Email**: [srmoon1104@naver.com](mailto:srmoon1104@naver.com)
+## 🛠️ 기술과 활용 범위
+
+| 구분 | 기술·도구 | 활용 경험 |
+|---|---|---|
+| 화질 튜닝·평가 | ISP, Qualcomm ISP, Imatest | 전장·모바일 튜닝, 정량·정성 평가 |
+| 업무 도구 개선 | VBA, Python | 보고서 자동화, 데이터 처리 및 기존 도구 수정 |
+| 교육 프로젝트 | YOLO11, 영상 처리 도구 | 객체 인식 데이터 전처리·학습 및 팀 프로젝트 |
+| AI 활용 | 생성형 AI, 프롬프트 설계 | 코드 작성·수정 보조, 자료 조사와 교차검토 |
+
+---
+
+## 🔧 일하는 방식
+
+### 오류가 발생하는 조건을 찾아 수정합니다.
+
+보고서 자동화 초기에는 값의 위치를 기준으로 데이터를 읽어 Imatest 버전 변경 시 오류가 발생했습니다. 이후 항목 제목과 문자를 기준으로 값을 찾도록 수정했습니다. AI를 활용해 코드를 작성·수정하면서, 실제 입력과 결과를 확인하는 과정을 함께 거쳤습니다.
+
+### 동료의 사용 경험을 다음 개선에 반영합니다.
+
+최종 보고서의 합격·불합격 표시뿐 아니라 개별 평가 수치에서도 판정 상태를 확인할 수 있도록 서식을 추가했습니다. 도구가 보고서 작성뿐 아니라 다음 튜닝 대상을 찾는 데에도 쓰이도록 개선했습니다.
+
+### 측정 결과와 실제 환경을 함께 살펴봅니다.
+
+정량 지표와 실제 영상의 차이를 확인하고, 튜닝 결과를 실차·실환경에서 비교합니다. 관찰한 결과를 바탕으로 설정을 조정하고, 실제 사용 환경에서 의도한 방향으로 달라졌는지 확인합니다.
+
+---
+
+## 🎓 교육 및 자격
+
+- **고려대학교(세종)** — 정부행정학부 졸업 · 2021.02
+- **한국폴리텍Ⅰ대학** — 그린반도체설계과 하이테크과정 702시간 이수 · 2023.03–2023.08
+- **대한상공회의소 서울기술교육센터** — AI융합 로봇SW개발자 과정 수료 · 2025.12–2026.07
+- **Columbia University · Columbia+** — Prompt Engineering & Programming with OpenAI 온라인 과정 수료 · 2026.04  
+  [수료증 확인](https://badges.plus.columbia.edu/a765e631-d1bf-4631-84be-fb6c8c3d67ab)
+- **사무자동화산업기사** — 2026.09 취득
+
+---
+
+## 📫 Contact
+
+**Email:** [srmoon1104@naver.com](mailto:srmoon1104@naver.com)
