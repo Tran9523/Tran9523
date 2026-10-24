@@ -109,10 +109,10 @@ YOLO 기반 객체 인식과 화면 안내를 결합한 **실시간 조립 가�
 - **대한상공회의소 서울기술교육센터** — AI융합 로봇SW개발자 과정 수료 · 2025.12–2026.07
 - **Columbia University · Columbia+** — Prompt Engineering & Programming with OpenAI 온라인 과정 수료 · 2026.04  
   [수료증 확인](https://badges.plus.columbia.edu/a765e631-d1bf-4631-84be-fb6c8c3d67ab)
-- **사무자동화산업기사** — 2026.09 취득
 
 ---
 
 ## 📫 Contact
 
-**Email:** [srmoon1104@naver.com](mailto:srmoon1104@naver.com)
+**Email:** [srmoon1104@naver.com](mailto:srmoon1104@naver.com) · **Phone:** 010-8990-2197
+
